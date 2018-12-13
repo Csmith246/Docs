@@ -41,7 +41,7 @@ Name the project **MvcMovie**, and then select **Create**.
 
 ### Launch the app
 
-In Visual Studio, select **Run** > **Start Without Debugging** to launch the app. Visual Studio starts [Kestrel](xref:fundamentals/servers/index#kestrel) server, launches a browser, and navigates to `http://localhost:port`, where *port* is a randomly chosen port number.
+In Visual Studio, select **Run** > **Start Without Debugging** to launch the app. Visual Studio starts [Kestrel](xref:fundamentals/servers#kestrel) server, launches a browser, and navigates to `http://localhost:port`, where *port* is a randomly chosen port number.
 
 ![Browser with new project](start-mvc/b1.png)
 
